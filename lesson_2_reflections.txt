@@ -11,3 +11,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 In cases where i want to try out something new, something experimental which I'm bot quite sure of that I would like to add to my project yet.
 Branching provides with a kind of environment where i could do changes to my original code/project without the disrupting the last working version of it.
+
+How do the diagrams help you visualize the branch structure?
+Branches are like Tree datastructure where each commit is a node pointing to its previous commit/ parent node. Diagram helps us visualize the hierarchy that is being followed
