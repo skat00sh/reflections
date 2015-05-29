@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It shows a message "Initialized empty Git repository in /home/d/version-control/reflections/.git/"
 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is kind of a buffer while making a commit to the repository. Working directory is our local file system while repository is Git's file system, in between ther is staging area (part of Git) whil segregates the no. of files to be included in a single commits
