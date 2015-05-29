@@ -6,3 +6,8 @@ It shows a message "Initialized empty Git repository in /home/d/version-control/
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is kind of a buffer while making a commit to the repository. Working directory is our local file system while repository is Git's file system, in between ther is staging area (part of Git) whil segregates the no. of files to be included in a single commits
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+In cases where i want to try out something new, something experimental which I'm bot quite sure of that I would like to add to my project yet.
+Branching provides with a kind of environment where i could do changes to my original code/project without the disrupting the last working version of it.
